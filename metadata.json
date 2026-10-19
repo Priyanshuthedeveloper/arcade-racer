@@ -1,0 +1,6 @@
+{
+  "name": "Apex Speed: 3D Racing",
+  "description": "A high-performance 3D car racing game built with Three.js featuring responsive vehicle physics, dynamic chase and cockpit cameras, interactive rotating steering wheel, procedural infinite highway, and Web Audio engine sounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
